@@ -40,7 +40,7 @@ let test () =
   getRowNumber x
 
 let day5() =
-  let inputS = readFileContents "..\..\..\Day5Input.txt"
+  let inputS = readFileContents "../../../Day5Input.txt"
   inputS
   |> List.ofSeq
   |> List.map (fun s -> {

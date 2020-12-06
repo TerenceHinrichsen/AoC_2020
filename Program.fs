@@ -6,6 +6,7 @@ open _2020.Day2
 open _2020.Day3
 open _2020.Day4
 open _2020.Day5
+open _2020.Day6
 
 [<EntryPoint>]
 let main argv =
@@ -13,5 +14,6 @@ let main argv =
 //  printfn "----Day 2---- %A" <| day2()
 //  day3()
 //  printfn "---- Day 4 ---- %A" <| day4()
-  day5()
+//  day5()
+  day6()
   0
